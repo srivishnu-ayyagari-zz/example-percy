@@ -1,0 +1,26 @@
+{
+  "name": "example-percy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srivishnua-lambdatest/example-percy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srivishnua-lambdatest/example-percy/issues"
+  },
+  "homepage": "https://github.com/srivishnua-lambdatest/example-percy#readme",
+  "devDependencies": {
+    "@percy/selenium-webdriver": "^1.0.2"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.3.0"
+  }
+}
